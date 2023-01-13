@@ -23,15 +23,15 @@ A social investing platform where retail traders collaborate, share and exchange
 
 ## Socials
 
-[Web App](https://tradehub.pro)<br>  
-[Discord](https://thetradehub.net/discord)<br>  
-[Twitter](https://thetradehub.net/twitter)<br>  
-[Stocktwits](https://thetradehub.net/stocktwits)<br>  
-[TikTok](https://thetradehub.net/tiktok)<br>  
-[Instagram](https://thetradehub.net/instagram)<br>  
-[Facebook](https://thetradehub.net/facebook)<br>  
-[Linkedin](https://thetradehub.net/linkedin)<br>  
-[Reddit](https://thetradehub.net/reddit)<br>  
+[Web App](https://tradehub.pro)  
+[Discord](https://thetradehub.net/discord)  
+[Twitter](https://thetradehub.net/twitter)  
+[Stocktwits](https://thetradehub.net/stocktwits)  
+[TikTok](https://thetradehub.net/tiktok)  
+[Instagram](https://thetradehub.net/instagram)   
+[Facebook](https://thetradehub.net/facebook)   
+[Linkedin](https://thetradehub.net/linkedin)  
+[Reddit](https://thetradehub.net/reddit)  
 
 ## [About Us](https://thetradehub.net/info/about)
 
@@ -51,7 +51,7 @@ To contact our team, you can send an email to team@tradehub.pro or reach us dire
 
 ### Terms & Policies
 
-[Terms & Conditions](https://thetradehub.net/info/terms)\  
+[Terms & Conditions](https://thetradehub.net/info/terms)   
 [Privacy Policy](https://thetradehub.net/info/privacy)
 
 #
