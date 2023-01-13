@@ -51,7 +51,7 @@ To contact our team, you can send an email to team@tradehub.pro or reach us dire
 
 ### Terms & Policies
 
-[Terms & Conditions](https://thetradehub.net/info/terms)<br>  
+[Terms & Conditions](https://thetradehub.net/info/terms)\  
 [Privacy Policy](https://thetradehub.net/info/privacy)
 
 #
