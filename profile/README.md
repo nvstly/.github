@@ -40,7 +40,7 @@ NVSTly offers multiple ways for users to earn. Integrated features allow for cry
 See our [Help Center](https://help.nvstly.com) for support articles and frequently asked questions
 
 ## [Contact](https://nvstly.com/contact)
-To contact our team, you can send an email to team@tradehub.pro or reach us directly in our [Discord server](https://thetradehub.net/discord)
+To contact our team, you can send an email to team@nvst.ly or reach us directly in our [Discord server](https://nvstly.com/discord)
 
 
 ### Terms & Policies
