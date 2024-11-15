@@ -3,9 +3,15 @@
 A social investing platform where retail traders collaborate, share and exchange knowledge, analysis, and ideas. Supporting all stocks, futures, forex, & cryptocurrency markets. Track trades with extensive insights & in-depth performance stats, share them in real-time with your followers or to Discord & social media, follow traders & receive real-time notifications of their positions to copy trade, with cross-brokerage support to automate it all and provide easy 1-click copy trading functionality.
 
 <p align="center" width="100%">
-    <img width="33%" src="https://cdn.nvstly.com/static/logo.svg?format=png">
+    <img width="33%" src="https://cdn.nvstly.com/static/banner_clear.png">
 </p>
 
+## Links:
+[NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [Github](https://github.com/nvstly)
+
+## Awards
+#1 FinTech Product of the Week on Product Hunt (x2)  
+Finalists for Best Social Investing Platform & People's Choice Award in Benzinga FinTech Awards 2024
 
 ## Features Highlights
 
@@ -24,7 +30,7 @@ A social investing platform where retail traders collaborate, share and exchange
 
 ## Socials
 
-[Web App](https://nvstly.com) | [Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [Stocktwits](https://nvstly.com/go/stocktwits) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Facebook](https://nvstly.com/go/facebook) | [Linkedin](https://nvstly.com/go/linkedin)  
+[Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [Stocktwits](https://nvstly.com/go/stocktwits) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Facebook](https://nvstly.com/go/facebook) | [Linkedin](https://nvstly.com/go/linkedin)  
 
 ## About Us
 
