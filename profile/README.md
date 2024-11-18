@@ -3,7 +3,7 @@
 A social investing platform where retail traders collaborate, share and exchange knowledge, analysis, and ideas. Supporting all stocks, futures, forex, & cryptocurrency markets. Track trades with extensive insights & in-depth performance stats, share them in real-time with your followers or to Discord & social media, follow traders & receive real-time notifications of their positions to copy trade, with cross-brokerage support to automate it all and provide easy 1-click copy trading functionality.
 
 <p align="center" width="100%">
-    <img width="33%" src="https://cdn.nvstly.com/static/banner_clear.png">
+    <img width="33%" src="https://cdn.nvstly.com/static/banner_clear.png" alt="NVSTly Banner">
 </p>
 
 ## Links:
@@ -55,4 +55,4 @@ To contact our team, you can send an email to team@nvst.ly or reach us directly 
 [Privacy Policy](https://nvstly.com/privacy)
 
 #
-© 2021-2023, [Trade Hub, LLC](https://tradehub.llc) or its affiliates
+© 2021-2025, [Trade Hub, LLC](https://tradehub.llc) or its affiliates
