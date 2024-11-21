@@ -7,7 +7,7 @@ A social investing platform where retail traders collaborate, share and exchange
 </p>
 
 ## Links:
-[NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [Github](https://github.com/nvstly)
+[NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot)
 
 ## Awards
 #1 FinTech Product of the Week on Product Hunt (x2)  
@@ -30,7 +30,7 @@ Finalists for Best Social Investing Platform & People's Choice Award in Benzinga
 
 ## Socials
 
-[Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [Stocktwits](https://nvstly.com/go/stocktwits) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Facebook](https://nvstly.com/go/facebook) | [Linkedin](https://nvstly.com/go/linkedin)  
+[Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [Stocktwits](https://nvstly.com/go/stocktwits) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin)  
 
 ## About Us
 
