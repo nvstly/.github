@@ -10,8 +10,8 @@ A social investing platform where retail traders collaborate, share and exchange
 [NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot)
 
 ## Awards
-People's Choice Award from Benzinga FinTech Awards 2024  
-#1 FinTech Product of the Week (x2)  & #4 FinTech Product of the Month on Product Hunt
+[People's Choice Award](https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards) from Benzinga FinTech Awards 2024  
+#1 FinTech Product of the Week (x2)  & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
 
 ## Features Highlights
 
