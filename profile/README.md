@@ -3,7 +3,9 @@
 A social investing platform where retail traders collaborate, share and exchange knowledge, analysis, and ideas. Supporting all stocks, futures, forex, & cryptocurrency markets. Track trades with extensive insights & in-depth performance stats, share them in real-time with your followers or to Discord & social media, follow traders & receive real-time notifications of their positions to copy trade, with cross-brokerage support to automate it all and provide easy 1-click copy trading functionality.
 
 <p align="center" width="100%">
-    <img width="33%" src="https://cdn.nvstly.com/static/banner_clear.png" alt="NVSTly Banner">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="33%" src="https://cdn.nvstly.com/static/banner_clear.png" alt="NVSTly Banner">
+    </a>
 </p>
 
 ## Links:
