@@ -1,12 +1,19 @@
 # [NVSTly](https://nvstly.com): Social Investing
 
-A social investing platform where retail traders collaborate, share and exchange knowledge, analysis, and ideas. Supporting all stocks, futures, forex, & cryptocurrency markets. Track trades with extensive insights & in-depth performance stats, share them in real-time with your followers or to Discord & social media, follow traders & receive real-time notifications of their positions to copy trade, with cross-brokerage support to automate it all and provide easy 1-click copy trading functionality.
-
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
         <img width="33%" src="https://cdn.nvstly.com/static/banner_clear.png" alt="NVSTly Banner">
     </a>
 </p>
+
+A social investing platform where retail traders collaborate, share and exchange knowledge, analysis, and ideas. Supporting all stocks, futures, forex, & cryptocurrency markets. Track trades with extensive insights & in-depth performance stats, share them in real-time with your followers or to Discord & social media, follow traders & receive real-time notifications of their positions to copy trade, with cross-brokerage support to automate it all and provide easy 1-click copy trading functionality.
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="33%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazcxdDkybWxmb2k4dHQ3bHU0NHB4Yzdkc3o0dnpwajVmajhrZmgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hfqBAeTEatIFCLVnyH/giphy.gif" alt="NVSTly: Social Investing">
+    </a>
+</p>
+
 
 ## Links:
 [NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [Discord Server](https://nvstly.com/go/discord)
@@ -17,18 +24,77 @@ A social investing platform where retail traders collaborate, share and exchange
 
 ## Features Highlights
 
-![Performance Stats](https://i.imgur.com/B3qcWv7.png)
-![Trader Dashboard](https://i.imgur.com/RO3rfUH.png)
-![Latest trades, top traders, or positions from traders you follow](https://i.imgur.com/JjVIXUL.png)
-![Global & community leaderboards](https://i.imgur.com/MGU3wwE.png)
-![In-depth data on every trade position](https://i.imgur.com/HnFTMs9.png)
-![Web browser functionality](https://i.imgur.com/P5gtJTs.png)
-![One-of-a-kind trade tracking & sharing Discord bot](https://i.imgur.com/kBmr2fI.png)
-![Conveniently fetch market fetch](https://i.imgur.com/dYIudVA.png)
-![Almost any data!](https://i.imgur.com/VwjOvSr.png)
-![Financial data and stock statistics](https://i.imgur.com/wW314MR.png)
-![Unique Trade Sharing features](https://i.imgur.com/GUG3FXE.png)
-![Integrated with Discord & Twitter](https://i.imgur.com/2Lqzayu.png)
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="https://i.imgur.com/B3qcWv7.png" alt="Performance Stats">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="https://i.imgur.com/RO3rfUH.png" alt="Trader Dashboard">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="https://i.imgur.com/JjVIXUL.png" alt="Latest trades, top traders, or positions from traders you follow">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="https://i.imgur.com/MGU3wwE.png" alt="Global & community leaderboards">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="https://i.imgur.com/HnFTMs9.png" alt="In-depth data on every trade position">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="https://i.imgur.com/P5gtJTs.png" alt="Web browser functionality">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="https://i.imgur.com/kBmr2fI.png" alt="One-of-a-kind trade tracking & sharing Discord bot">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src=https://i.imgur.com/dYIudVA.png"" alt="Conveniently fetch market fetch">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="https://i.imgur.com/VwjOvSr.png" alt="Almost any data!">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="https://i.imgur.com/wW314MR.png" alt="Financial data and stock statistics">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="https://i.imgur.com/GUG3FXE.png" alt="Unique Trade Sharing features">
+    </a>
+</p>
+
+<p align="center" width="100%">
+    <a href="https://nvstly.com" target="_blank">
+        <img width="50%" src="https://i.imgur.com/2Lqzayu.png" alt="Integrated with Discord & Twitter">
+    </a>
+</p>
 
 ## Socials
 
