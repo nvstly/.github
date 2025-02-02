@@ -38,7 +38,7 @@ A social investing platform where retail traders collaborate, share and exchange
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src="https://i.imgur.com/JjVIXUL.png" alt="Latest trades, top traders, or positions from traders you follow">
+        <img width="50%" src="https://i.imgur.com/JjVIXUL.png" alt="Latest trades, top trades, or positions from traders you follow">
     </a>
 </p>
 
@@ -68,7 +68,7 @@ A social investing platform where retail traders collaborate, share and exchange
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src=https://i.imgur.com/dYIudVA.png"" alt="Conveniently fetch market fetch">
+        <img width="50%" src="https://i.imgur.com/dYIudVA.png" alt="Conveniently fetch market fetch">
     </a>
 </p>
 
