@@ -67,7 +67,7 @@ A social investing platform where retail traders collaborate, share and exchange
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src="https://i.imgur.com/6PfpUhc.png" alt="Conveniently fetch financial charts">
+        <img width="50%" src="https://i.imgur.com/6PfpUhc.png" alt="Conveniently fetch market data">
     </a>
 </p>
 
