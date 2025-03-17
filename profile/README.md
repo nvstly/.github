@@ -18,9 +18,25 @@ A social investing platform where retail traders collaborate, share and exchange
 ## Links:
 [NVSTly Web](https://nvstly.com) | [iOS App](https://nvstly.com/go/ios) | [Google Play App](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [Discord Server](https://nvstly.com/go/discord)
 
+<p align="center">
+  <a href="https://nvstly.com/go/ios" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50">
+  </a>
+  &nbsp;
+  <a href="https://nvstly.com/go/android" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
+  </a>
+</p>
+
 ## Awards
 [People's Choice Award](https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards) from Benzinga FinTech Awards 2024  
 #1 FinTech Product of the Week (x2)  & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
+
+<p align="center">
+  <a href="https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards" target="_blank">
+    <img src="https://i.imgur.com/0BOdUU2.png" alt="People's Choice Award" height="160">
+  </a>
+</p>
 
 ## Features Highlights
 
@@ -38,7 +54,7 @@ A social investing platform where retail traders collaborate, share and exchange
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src="https://i.imgur.com/JjVIXUL.png" alt="Latest trades, top trades, or positions from traders you follow">
+        <img width="50%" src="https://i.imgur.com/JjVIXUL.png" alt="Latest trades, top traders, or positions from traders you follow">
     </a>
 </p>
 
@@ -62,31 +78,31 @@ A social investing platform where retail traders collaborate, share and exchange
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src="https://i.imgur.com/18Ae18a.png" alt="One-of-a-kind trade tracking & sharing Discord bot">
+        <img width="50%" src="https://i.imgur.com/kBmr2fI.png" alt="One-of-a-kind trade tracking & sharing Discord bot">
     </a>
 </p>
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src="https://i.imgur.com/6PfpUhc.png" alt="Conveniently fetch market data">
+        <img width="50%" src="https://i.imgur.com/dYIudVA.png" alt="Conveniently fetch market data">
     </a>
 </p>
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src="https://i.imgur.com/P723U47.png" alt="Almost any data!">
+        <img width="50%" src="https://i.imgur.com/VwjOvSr.png" alt="Almost any data!">
     </a>
 </p>
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src="https://i.imgur.com/NsvZARQ.png" alt="Financial data and stock statistics">
+        <img width="50%" src="https://i.imgur.com/wW314MR.png" alt="Financial data and stock statistics">
     </a>
 </p>
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src="https://i.imgur.com/rlidEFx.png" alt="Unique Trade Sharing features">
+        <img width="50%" src="https://i.imgur.com/GUG3FXE.png" alt="Unique Trade Sharing features">
     </a>
 </p>
 
