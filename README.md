@@ -34,6 +34,10 @@ A free, social investing platform where retail traders collaborate, share insigh
   <a href="https://nvstly.com/shrt/bnzgaward" target="_blank">
     <img src="assets/images/benzinga_badge.png" alt="People's Choice Award" height="160">
   </a>
+
+  <a href="https://nvstly.com/go/producthunt" target="_blank">
+    <img src="assets/images/product_hunt.png" alt="#1 FinTech Product of the Week" height="54">
+  </a>
 </p>
 
 ## Feature Highlights
@@ -137,7 +141,6 @@ A free, social investing platform where retail traders collaborate, share insigh
   </a>
     <a href="https://nvstly.com/go/linkedin" target="_blank">
     <img src="assets/icons/linkedin.svg" alt="Follow NVSTly on LinkedIn">
-  </a>
   </a>
     <a href="https://nvstly.com/go/bsky" target="_blank">
     <img src="assets/icons/bsky.svg" alt="Follow NVSTly on Bluesky">
